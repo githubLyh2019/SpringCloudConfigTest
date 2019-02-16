@@ -1,2 +1,2 @@
 # SpringCloudConfigTest
-test config
+test configs
